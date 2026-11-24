@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+
+# Virtual environments and secrets
+venv/
+.venv/
+env/
+.env
+*.env
+
+# Testing and IDEs
+.pytest_cache/
+.vscode/
+.idea/
+
+# Local database and storage files
+data/
+*.db
+*.log
+*.qrx
